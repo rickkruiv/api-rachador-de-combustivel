@@ -12,5 +12,5 @@ server.get('/combustiveis', (req,res) => {
 });
 
 server.listen(port, () => {
-    console.log(`API rodadndo em "http://localhost:${port}"`)
+    console.log(`API rodadndo`)
 });
