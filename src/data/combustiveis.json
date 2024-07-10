@@ -1,0 +1,27 @@
+[
+    {
+        "combustivel": "Gasolina Comum",
+        "preco": 5.85
+    },
+    {
+        "combustivel": "Gasolina Aditivada",
+        "preco": 6.05
+    },
+    {
+        "combustivel": "Etanol",
+        "preco": 4.1
+    },
+    {
+        "combustivel": "Diesel",
+        "preco": 4.9
+    },
+    {
+        "combustivel": "Diesel S10",
+        "preco": 5
+    },
+    {
+        "combustivel": "GNV",
+        "preco": 3.5
+    }
+]
+
